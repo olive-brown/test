@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/olive-brown/badger/refs/heads/main/badger.json",
+    "url": "https://raw.githubusercontent.com/olive-brown/badger/refs/heads/main/badger.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/olive-brown/badger/refs/heads/main/badger.json",
+            "url": "https://raw.githubusercontent.com/olive-brown/badger/refs/heads/main/badger.yaml",
             "name": "Test"
         }
     ]
